@@ -1,7 +1,7 @@
 # <p align="center">Hi :raising_hand:, I'm Alex Vilkins</p>
 
 - :computer: I'm a developer specializing in front-end development since 2020
-- :muscle: In my arsenal of knowledge:
+- :muscle: In my arsenal:
 
 ![Static Badge](https://img.shields.io/badge/JAVASCIPT-yellow) ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/SCSS-pink) ![Static Badge](https://img.shields.io/badge/TAILWIND-blue)
 ![Static Badge](https://img.shields.io/badge/VUEJS-green) ![Static Badge](https://img.shields.io/badge/VUETIFY-darkgreen) ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-purple)
